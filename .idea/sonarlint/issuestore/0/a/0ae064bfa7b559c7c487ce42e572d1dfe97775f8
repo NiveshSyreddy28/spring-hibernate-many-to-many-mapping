@@ -1,0 +1,8 @@
+
+H
+java:S1199"-Extract this nested code block into a method.(äÜ‚Àúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(“÷ úÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(äÜ‚Àúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ô¨ãÒ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(®™Ó
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(­—ø›8Á©ÅÊ’0
